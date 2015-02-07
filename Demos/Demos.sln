@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FAB8D17F-EFBE-455D-8255-C0C3E5FEE5DB}"
+	ProjectSection(SolutionItems) = preProject
+		Closures.html = Closures.html
+		06-Closures.js = 06-Closures.js
+		Coercion.html = Coercion.html
+		01-Coercion.js = 01-Coercion.js
+		Constructors.html = Constructors.html
+		03-Constructors.js = 03-Constructors.js
+		Functions.html = Functions.html
+		05-Functions.js = 05-Functions.js
+		Objects.html = Objects.html
+		02-Objects.js = 02-Objects.js
+		Prototypes.html = Prototypes.html
+		07-Prototypes.js = 07-Prototypes.js
+		SomeLessonsLearnedFromHell.html = SomeLessonsLearnedFromHell.html
+		09-SomeLessonsLearnedFromHell.js = 09-SomeLessonsLearnedFromHell.js
+		StoredCopiedComparedValues.html = StoredCopiedComparedValues.html
+		04-StoredCopiedComparedValues.js = 04-StoredCopiedComparedValues.js
+		WritingMaintainableCode.html = WritingMaintainableCode.html
+		08-WritingMaintainableCode.js = 08-WritingMaintainableCode.js
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
